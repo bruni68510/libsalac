@@ -1,0 +1,1 @@
+/* libsalacconfig.h.  Generated from libsalacconfig.h.in by configure.  */

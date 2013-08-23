@@ -1,0 +1,12 @@
+prefix=@exec_prefix@
+libdir=@libdir@
+includedir=@includedir@
+
+Name: @PACKAGE_NAME@
+Description: Simple ALAC C Wrapper Library.
+
+Version: @PACKAGE_VERSION@
+URL: @PACKAGE_URL@
+Libs: -L${libdir} -lsalac-@LIBSALAC_API_VERSION@
+
+Cflags: -I${includedir}/libsalac-@LIBSALAC_API_VERSION@ -I${libdir}/libsalac-@LIBSALAC_API_VERSION@/include

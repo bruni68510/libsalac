@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repository/alac/!svn/ver/2/trunk/codec
+END
+ALACEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repository/alac/!svn/ver/2/trunk/codec/ALACEncoder.h
+END
+ag_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repository/alac/!svn/ver/2/trunk/codec/ag_enc.c
+END
+ALACAudioTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/alac/!svn/ver/2/trunk/codec/ALACAudioTypes.h
+END
+dp_dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repository/alac/!svn/ver/2/trunk/codec/dp_dec.c
+END
+matrix_dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repository/alac/!svn/ver/2/trunk/codec/matrix_dec.c
+END
+aglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repository/alac/!svn/ver/2/trunk/codec/aglib.h
+END
+ALACDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repository/alac/!svn/ver/2/trunk/codec/ALACDecoder.cpp
+END
+EndianPortable.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/alac/!svn/ver/2/trunk/codec/EndianPortable.c
+END
+dp_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repository/alac/!svn/ver/2/trunk/codec/dp_enc.c
+END
+matrix_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repository/alac/!svn/ver/2/trunk/codec/matrix_enc.c
+END
+ALACDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repository/alac/!svn/ver/2/trunk/codec/ALACDecoder.h
+END
+ALACBitUtilities.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/alac/!svn/ver/2/trunk/codec/ALACBitUtilities.c
+END
+EndianPortable.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/alac/!svn/ver/2/trunk/codec/EndianPortable.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repository/alac/!svn/ver/2/trunk/codec/makefile
+END
+dplib.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repository/alac/!svn/ver/2/trunk/codec/dplib.h
+END
+APPLE_LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repository/alac/!svn/ver/2/trunk/codec/APPLE_LICENSE.txt
+END
+ALACEncoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repository/alac/!svn/ver/2/trunk/codec/ALACEncoder.cpp
+END
+ALACBitUtilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/alac/!svn/ver/2/trunk/codec/ALACBitUtilities.h
+END
+matrixlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repository/alac/!svn/ver/2/trunk/codec/matrixlib.h
+END
+ag_dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repository/alac/!svn/ver/2/trunk/codec/ag_dec.c
+END
