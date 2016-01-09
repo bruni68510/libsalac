@@ -1,0 +1,6 @@
+Put environment variables to alac:
+
+ALAC_CFLAGS='-I ./src/lib/alac/codec'
+ALAC_LIBS='-L./src/lib/alac/codec -lalac'
+
+Compile alac library first under src lib directory
